@@ -1,0 +1,20 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <meta charset=\"utf-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <title>Смарт-Экспресс - сайт находится в разработке</title>\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    <link rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"css/main.css\">\r\n    <script src=\"js/jquery-3.6.0.min.js\"></script>\r\n    <script src=\"js/main.js\"></script>\r\n</head>\r\n<body>\r\n    <header>\r\n        <nav>\r\n            <a href=\"#services\">Услуги</a>\r\n            <a href=\"#portfolio\">Портфолио</a>\r\n            <a href=\"#contacts\">Контакты</a>\r\n        </nav>\r\n        <div>\r\n            <a href=\"tel:+79039999999\">+7 903 999-99-99</a>\r\n            <button>Заказать звонок</button>\r\n        </div>\r\n    </header>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision f9ed08b3be61ea88bca0ce78a64b292bad4a2c63)
++++ b/index.html	(date 1657571620637)
+@@ -5,9 +5,7 @@
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <title>Смарт-Экспресс - сайт находится в разработке</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+-    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+     <script src="js/jquery-3.6.0.min.js"></script>
+-    <script src="js/main.js"></script>
+ </head>
+ <body>
+     <header>
